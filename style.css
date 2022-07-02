@@ -3,3 +3,49 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+.panda-bg-info {
+    background-color: #fceae8;
+}
+
+.bg-gradient {
+    background-image: var(--bs-gradient) !important;
+}
+
+.panda-btn-buy-now {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+
+
+.bg-warning {
+    background-color: #ffc107 !important;
+}
+
+.bg-warning:hover {
+    background-color: #fceae8;
+}
+
+.rounded-3 {
+    border-radius: .3rem !important;
+}
+
+.border {
+    border: 1px solid #dee2e6 !important;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.g-4,
+.gy-4 {
+    --bs-gutter-y: 1.5rem;
+}
+
+.panda-bg-info {
+    height: 300px;
+}
