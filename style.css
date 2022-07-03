@@ -41,11 +41,8 @@
     width: 100px;
 }
 
-.g-4,
-.gy-4 {
-    --bs-gutter-y: 1.5rem;
-}
 
 .panda-bg-info {
-    height: 300px;
+
+    /* height: 300px;WW */
 }
